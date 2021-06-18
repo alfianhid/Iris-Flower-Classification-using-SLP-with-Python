@@ -1,4 +1,4 @@
-# Iris Flower Classification using SLP with Python
+# Iris Flower Classification using Single Layer Perceptron with Python
 
 Single layer perceptron adalah sebuah jaringan syaraf (neural network) sederhana yang hanya berisi satu lapisan (one layer). Perhitungan pada single layer perceptron ini menggunakan perhitungan jumlah vektor input dengan vektor bobot yang sesuai. Nilai output yang ditampilkan nantinya akan menjadi input pada perhitungan fungsi aktivasi.
 
